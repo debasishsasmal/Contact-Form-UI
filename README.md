@@ -8,7 +8,7 @@ A professional, front-end contact form UI built with HTML and CSS. This project 
 
 ### **Live Demo**
 
-You can see the form live here: [**https://debasishsasmal.github.io/contact-form/**](https://debasishsasmal.github.io/contact-form/)
+You can see the form live here: ([https://debasishsasmal.github.io/contact-form/](https://debasishsasmal.github.io/Contact-Form-UI/))
 
 ---
 
